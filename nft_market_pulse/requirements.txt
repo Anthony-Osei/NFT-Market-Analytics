@@ -1,0 +1,11 @@
+requests
+pandas
+pyspark
+kafka-python
+redis
+great_expectations
+scikit-learn
+flask
+streamlit
+sqlalchemy
+google-cloud-bigquery
